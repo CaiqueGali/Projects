@@ -12,8 +12,13 @@ Para abordar essas dificuldades, implementamos uma estratégia eficiente de gere
 
 ## Fase de Planejamento Inicial:
 Identificação das necessidades do cliente.
-Definição de metas e objetivos do projeto.
-Formação da equipe do projeto.
+Definição de metas e objetivos do projeto.  
+  - Metas
+  - OKRs
+  - KPIs iniciais e de contra métrica
+    
+Formação da equipe do projeto
+
 Elaboração do plano de projeto, incluindo escopo, cronograma, orçamento e recursos necessários.
 
 ## Fase de Análise de Requisitos:
@@ -47,7 +52,7 @@ Comunicação com os usuários e obtenção de feedback inicial.
 ## Fase de Expansão para a Europa:
 Preparação para o lançamento na Europa.
 Ajustes de idioma e localização.
-Lançamento na Europa com estratégias de marketing específicas.
+Lançamento na Europa com estratégias de marketing específicas, assim como readequação dos relatórios para os demais países envolvidos (Londres, Gibraltar, Brasil, Itália e Holanda).
 
 ## Fase de Manutenção Contínua:
 Monitoramento do desempenho do aplicativo e do Dashboard.
