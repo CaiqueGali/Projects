@@ -6,7 +6,7 @@
 Quando assumi a gestão deste projeto, nos deparamos com alguns desafios significativos, sendo o mais crítico a qualidade dos dados armazenados no banco de dados. Os dados estavam chegando de forma desordenada e bagunçada, dificultando a análise e o uso eficaz dessas informações.
 
 # Abordagem de Gerenciamento:
-Para abordar essas dificuldades, implementamos uma estratégia eficiente de gerenciamento de dados. Utilizamos SQL para organizar e limpar os dados provenientes do aplicativo, Google BigQuery e Firebase. Além disso, estabelecemos conexões com APIs essenciais, como Facebook Ads, Google Ads e outras fontes de tráfego relevante para obter dados adicionais para análise.
+Para abordar essas dificuldades, implementamos uma estratégia eficiente de gerenciamento de dados. Utilizamos SQL para organizar e limpar os dados provenientes do aplicativo, Google BigQuery e Firebase. Além disso, estabelecemos conexões com APIs essenciais, como Facebook Ads, Google Ads e outras fontes de tráfego relevante para obter dados adicionais para análise (Essa etapa foi realizada com integração de ThirdParty APIs, terceirizadas).
 
 # Sobre o gerenciamento 👾
 
